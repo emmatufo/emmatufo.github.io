@@ -1,0 +1,40 @@
+h1{
+    color: #9C2527
+}
+
+p{
+    color:black
+}
+body{
+    background-color:beige;
+    padding: 0.5rem 1.2rem;
+    margin: 3em 0;
+    font-family: 'Signika', sans-serif;
+}
+
+html {
+    background-color: beige
+}
+
+main img{
+    border-radius: 50%;
+}
+
+main p {
+    margin: 3em 0;
+}
+
+.top{
+    margin: 3em 0;
+    background-color: lightcoral;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 5%;
+}
+
+.address{
+    padding: 1rem;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: bisque;
+}
