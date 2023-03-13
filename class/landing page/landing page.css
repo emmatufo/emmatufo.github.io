@@ -1,40 +1,84 @@
-h1{
-    color: #9C2527
+/* 
+font-family: 'Barlow Semi Condensed', sans-serif;
+font-family: 'Orbitron', sans-serif;
+pink - F8DCD1
+dark - 664C4B
+white - FAF7F3
+*/
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background: #FAF7F3;
+    font-size:24px;
 }
-
-p{
-    color:black
-}
-body{
-    background-color:beige;
-    padding: 0.5rem 1.2rem;
-    margin: 3em 0;
-    font-family: 'Signika', sans-serif;
-}
-
-html {
-    background-color: beige
-}
-
-main img{
-    border-radius: 50%;
-}
-
-main p {
+main {
     margin: 3em 0;
 }
 
-.top{
-    margin: 3em 0;
-    background-color: lightcoral;
-    flex-direction: row;
-    justify-content: center;
-    padding-left: 5%;
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size:7em;
 }
 
-.address{
-    padding: 1rem;
-    padding-left: 5%;
-    padding-right: 5%;
-    background-color: bisque;
+section {
+    margin: 2em 0;
+}
+
+ul {
+    margin: 0;
+    padding: 1em 3em;
+}
+footer {
+    text-align: center;
+    font-size: .8em;
+    letter-spacing: 1.5px;
+}
+
+ul {
+    background-color: #F8DCD1;
+}
+
+a{
+    color:darkred;
+    text-decoration: none;
+}
+
+footer a{
+    color:black;
+}
+
+header {
+    margin: 5em 0;
+}
+
+
+@media (max-width:775px){
+    body{
+        font-size:20px;
+    }
+
+    .address{
+        margin: 1em 0 0 0;
+        text-align:center;
+    }
+    
+}
+
+@media (max-width:556px){
+    body{
+        font-size:18px;
+    }
+
+    .menu{
+        margin: 1em 0 0 0;
+    }
+    .mobile{
+        display:none;
+    }
+}
+
+@media (min-width:556px){
+    .desktop{
+        display: none;
+    }
 }
