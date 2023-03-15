@@ -1,0 +1,30 @@
+/* font-family: 'Noto Sans Bassa Vah', sans-serif;
+font-family: 'Bebas Neue', cursive;
+grey: #d9d9d9
+green: #CCDFCA
+black text*/
+
+header{
+    text-align: center;
+    font-family: 'Noto Sans Bassa Vah', sans-serif;
+    text-decoration-line: underline;
+}
+body{
+    background-color: #d9d9d9;
+}
+h1{
+    text-align: center;
+    background-color: #CCDFCA;
+    letter-spacing: 1.5px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    margin-top: 15px;
+}
+p{
+    caret-color: black;
+    font-family: 'Noto Sans Bassa Vah', sans-serif;
+}
+.container{
+    margin-top: 50px;
+    font-size: 30px;
+}

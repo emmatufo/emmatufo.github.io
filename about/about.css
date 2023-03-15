@@ -8,7 +8,7 @@ body{
 }
 main{
     margin-left: 20px;
-    margin-top: 200px;
+    margin-top: 20px;
     margin-bottom: 100px;
 
 }
@@ -41,4 +41,5 @@ h6{
 header{
     font-family: 'Noto Sans Bassa Vah', sans-serif;
     text-decoration-line: underline;
+    text-align: center;
 }
