@@ -61,8 +61,7 @@ a:link {
         font-size: smaller;
         font-family: 'Barlow Semi Condensed', sans-serif;
   }
-  iframe {
-    padding-top: 50px;
+  video{
     align-items: center;
   }
   footer{
