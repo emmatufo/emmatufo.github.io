@@ -63,6 +63,7 @@ a:link {
   }
   iframe {
     padding-top: 50px;
+    align-items: center;
   }
   footer{
     text-align: center;
