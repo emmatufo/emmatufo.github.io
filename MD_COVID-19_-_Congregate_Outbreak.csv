@@ -1,0 +1,88 @@
+Facility,County,Total_Number_Cases,Total_Number_Deaths,date,last_updated_date,facility_type
+Alice Byrd Tawes Nursing and Rehabilitation Center,Somerset,23,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Asbury Solomons,Calvert,3,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Ballenger Creek,Frederick,236,6,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Braddock Heights,Frederick,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Calvert Manor,Cecil,68,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Crofton,Anne Arundel,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Overlea,Baltimore City,7,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Riverview,Baltimore County,42,3,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Autumn Lake Healthcare at Summit Park,Baltimore County,8,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Brightview Annapolis,Anne Arundel,9,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Buckingham's Choice Oakbridge Terrace,Frederick,20,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Caroline Nursing and Rehab,Caroline,10,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Carriage Hill of Bethesda,Montgomery,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Charlotte Hall Veterans Home,St. Mary's,371,10,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Chesapeake Shores Nursing Home,St. Mary's,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Chestertown Nursing and Rehab,Kent,8,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Citizen's Care Center,Harford,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Citizens Care and Rehabilitation Center,Frederick,58,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Coffman Nursing Home,Washington,24,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Commonwealth Senior Living Salisbury,Wicomico,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Complete Care at Corsica Hills,Queen Anne's,7,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Complete Care at La Plata,Charles,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Complete Care at Severna Park,Anne Arundel,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Deer's Head Hospital Center,Wicomico,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Edenwald Senior Living Communities,Baltimore County,25,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Egle House - Assisted Living,Allegany,11,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Elkton Nursing and Rehabilitation Center,Cecil,10,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Fahrney-Keedy Senior Living Community - Skilled Nursing Care,Washington,131,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Fenwick Assisted Living,Charles,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Forest Haven Nursing and Rehabilitation Center,Baltimore County,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Capital Region,Prince George's,18,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Cherrywood,Baltimore County,185,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Cold Spring,Baltimore City,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Courtland,Baltimore County,80,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Good Samaritan,Baltimore City,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Irvington,Baltimore City,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Future Care Pineview,Prince George's,16,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Genesis Hammonds Lane,Anne Arundel,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Glen Meadows Retirement Community,Baltimore County,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Hagerstown Healthcare Center,Washington,18,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Hebrew Home of Greater Washington,Montgomery,440,26,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Homewood at Frederick,Frederick,4,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+IntegraCare - Bay Village,Anne Arundel,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Kensington Park Senior Living,Montgomery,3,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Landow House,Montgomery,6,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Levindale Hebrew Geriatric Center and Hospital,Baltimore City,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Lorien Bel Air,Harford,73,2,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Lorien Elkridge,Howard,20,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Lorien Harmony Hall,Howard,50,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Lorien Taneytown,Carroll,52,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Lutheran Village at Miller's Grant,Howard,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Marley Neck Health and Rehabilitation Center,Anne Arundel,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Moran Nursing and Rehabilitation Center,Allegany,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Northwest Hospital Subacute Unit,Baltimore County,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Oak Crest Senior Living Community,Baltimore County,351,12,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Oakland Nursing and Rehabilitation Center,Garrett,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Pasadena Home Care,Anne Arundel,12,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Peace Healthcare at Dennett Road Manor,Garrett,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Peace Healthcare at Lions Center,Allegany,33,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Peak Healthcare at Frederick Villa,Baltimore County,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Peak Healthcare at Sligo Creek,Montgomery,23,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Pickersgill Retirement Community,Baltimore County,24,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+ProMedica Skilled Nursing and Rehabilitation (Chevy Chase),Montgomery,4,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+ProMedica Skilled Nursing and Rehabilitation (Potomac),Montgomery,24,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+ProMedica Skilled Nursing and Rehabilitation (Ruxton),Baltimore County,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+ProMedica Skilled Nursing and Rehabilitation (Towson),Baltimore County,191,2,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+ProMedica Skilled Nursing and Rehabilitation (Wheaton),Montgomery,11,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Salisbury Rehabilitation and Nursing Center,Wicomico,87,1,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Somerford House Hagerstown,Washington,5,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+St. Elizabeth Rehabilitation and Nursing Center,Baltimore City,68,2,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+St. Stephen's Green at Mercy Ridge,Baltimore County,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Stella Maris,Baltimore County,292,9,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Sterling Care at Frostburg Village,Allegany,25,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Sterling Care Riverside,Harford,102,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Sterling Care South Mountain,Washington,89,2,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Sunrise at Montgomery Village,Montgomery,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Sunrise Senior Living of Columbia,Howard,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+The Kensington,Allegany,1,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+The Village at Rockville,Montgomery,126,5,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Tuckerman Rehabilitation and Healthcare Center,Montgomery,13,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Westminster Healthcare Center,Carroll,25,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Wilson Health Care Center,Montgomery,4,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Woodholme Gardens,Baltimore County,2,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Woodlands Assisted Living,Baltimore County,3,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,LTC
+Baltimore County Department of Corrections,Baltimore County,9,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,State/Local
+Potomac Center,Washington,145,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,State/Local
+Spring Grove Hospital Center,Baltimore County,3,0,04/12/2023 12:00:00 AM,04/12/2023 02:00:00 PM,State/Local
