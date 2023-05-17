@@ -6,26 +6,32 @@
     padding-top: 90px;
     padding-bottom: 100px;  
 }
+
 .head {
     text-align: center;
     padding-top: 90px;
     padding-bottom: 100px;
 }
-img {
-    padding-top: 40px;
-    padding-bottom: 00px;
-    padding-right: 100px;
-    padding-left: 200px;
+
+.video{
+  margin-bottom: 20px;
 }
+
+img {
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
 .article_text{
     padding-top: 100px;
     background-color:rgb(233, 233, 225)
 }
-p{
 
+p{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
+
 h3{
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: bolder;
@@ -42,30 +48,51 @@ a:link {
     text-decoration:underline;
   }
   
-  a:visited {
+a:visited {
     color: rgb(0, 0, 0);
     background-color: transparent;
     text-decoration: underline;
   }
+
   a:hover {
     color: rgb(24, 28, 70);
     background-color: transparent;
     text-decoration: underline;
   }
+
   a:active {
     color: rgb(0, 0, 0);
     background-color: transparent;
     text-decoration: underline;
   }
+
   .row{
         font-size: smaller;
         font-family: 'Barlow Semi Condensed', sans-serif;
   }
+
   video{
     align-items: center;
   }
+
   footer{
     text-align: center;
     padding-top: 80px;
     padding-bottom: 30px;
   }
+
+  @media (max-width: 400px) {
+    h3 {
+       font-size: 2em;
+    }
+    h1{
+      font-size: 3em;
+    }
+    p{
+      font-size: 0.79em;;
+    }
+    .video{
+      width: auto;
+      height: 100%;
+    }
+ }
